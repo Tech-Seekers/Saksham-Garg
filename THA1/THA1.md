@@ -1,2 +1,2 @@
 # Output of THA1
-<img src="THA1.jpg" alt="THA1 Output"/>
+![Output of THA1](https://github.com/Tech-Seekers/Saksham-Garg/edit/main/THA1/THA1.png)
