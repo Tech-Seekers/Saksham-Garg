@@ -14,6 +14,7 @@ var array_Clone = function(arra1) {
    console.log(array_Clone([1, 2, 4, 0]));
    console.log(array_Clone([1, 2, [4, 0]]));
 
+// 3
 var first =  function(array, n) {
     if (array == null) 
     return void 0;
@@ -23,8 +24,6 @@ var first =  function(array, n) {
     return [];
   return array.slice(0, n);
 };
-
-// 3
 console.log(first([7, 9, 0, -2]));
 console.log(first([],3));
 console.log(first([7, 9, 0, -2],3));
