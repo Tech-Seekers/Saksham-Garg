@@ -18,7 +18,7 @@ console.log(_keys({name : "Raghav", Year: "3rd", rollno: "123456"}));
 // 2
 
 var student =  { 
-  name : "Raghav", 
+  name : "Saksham", 
   year : "3rd year", 
   rollno : 123456  };
 console.log(student);
@@ -36,7 +36,7 @@ Object.objsize = function(Myobj) {
 };
 
 var student = { 
-name : "Raghav", 
+name : "Saksham", 
 year : "3rd year", 
 rollno : 123456 };
 
