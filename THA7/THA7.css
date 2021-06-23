@@ -39,12 +39,12 @@ body {
     border-radius: 2px;
     background-size:contain;
     box-sizing: border-box;
-    background-image: url('empty.jpg');
+    background-image: url('Assets/empty.jpg');
   }
 .seat:hover {
     opacity: 0.5;
   }
 .booked {
-  background-image: url('booked.jpg');
+  background-image: url('Assets/booked.jpg');
 
   }
